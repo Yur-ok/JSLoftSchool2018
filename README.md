@@ -1,3 +1,5 @@
-# JSLoftSchool2018
+# JS LoftSchool 2018
 
-JS studing
+## JS studing
+
+
